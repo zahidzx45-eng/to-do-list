@@ -1,0 +1,6 @@
+{
+  "name": "Clearlist — Task Manager",
+  "description": "A responsive, card-based to-do list workspace with priority levels, due dates, live search, filtering, inline editing, and automatic localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
